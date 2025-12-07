@@ -9,11 +9,15 @@ Dans ce projet, je développe une application web très basique d'un chatbot. L'
 
 ## Structure du Projet
 
-Le projet est divisé en trois fichiers principaux :
-
-1. **index.html** - Structure HTML de la page.
-2. **styles.css** - Styles CSS pour styliser l'application.
-3. **script.js** - Scripts JavaScript gérant le comportement de l'interface utilisateur et la simulation des réponses du chatbot en utilisant l'API de Llama.
+```
+├── src/            # Structure HTML de la page
+│   ├── index.html   # Styles CSS pour styliser l'application
+│   ├── styles.css   # Scripts JavaScript gérant le comportement de l'interface utilisateur et la simulation des réponses du chatbot en utilisant l'API de Llama.
+│   ├── app.js 
+│               
+├── README.md        # Aperçu du projet et instructions
+├── LICENSE          # Informations de licence pour le dépôt
+```
 
 ## Installation
 
